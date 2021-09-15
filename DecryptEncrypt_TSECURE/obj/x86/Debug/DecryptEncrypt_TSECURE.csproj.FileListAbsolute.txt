@@ -1,0 +1,17 @@
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\bin\Debug\DecryptEncrypt_TSECURE.exe
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\bin\Debug\DecryptEncrypt_TSECURE.pdb
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.csprojResolveAssemblyReference.cache
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.Form1.resources
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.Properties.Resources.resources
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.csproj.GenerateResource.Cache
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.exe
+D:\Project\DecryptEncrypt_TSECURE\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.pdb
+D:\project\TSecure\DecryptEncrypt_TSECURE\bin\Debug\DecryptEncrypt_TSECURE.exe
+D:\project\TSecure\DecryptEncrypt_TSECURE\bin\Debug\DecryptEncrypt_TSECURE.pdb
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.csprojAssemblyReference.cache
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.Form1.resources
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.Properties.Resources.resources
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.csproj.GenerateResource.cache
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.csproj.CopyComplete
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.exe
+D:\project\TSecure\DecryptEncrypt_TSECURE\obj\x86\Debug\DecryptEncrypt_TSECURE.pdb
